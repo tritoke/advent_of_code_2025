@@ -1,0 +1,23 @@
+name = "advent_of_code_2025"
+version = "0.1.0"
+license = "MIT"
+author = "Sam Leonard"
+maintainer = "samuelleonard35@gmail.com"
+copyright = "Copyright 2025, Sam Leonard"
+
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+module-naming = false
+
+[fortran]
+implicit-typing = false
+implicit-external = false
+source-form = "free"
+
+[install]
+library = false
+
+[dependencies]
+stdlib = "*"
