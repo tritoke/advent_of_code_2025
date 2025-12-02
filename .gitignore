@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+# fpm build dir
+build/
+
+# the AoC inputs
+inputs/
