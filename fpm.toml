@@ -21,3 +21,4 @@ library = false
 
 [dependencies]
 stdlib = "*"
+M_strings = { git = "https://github.com/urbanjost/M_strings.git", tag = "V2.0.0" }
